@@ -18,6 +18,12 @@ It uses the powerful [PDF.js](https://mozilla.github.io/pdf.js/) library for ren
 - **PDF Rendering:** PDF.js (loaded via CDN)
 - **UI:** Clean, modern, and responsive
 
+- - **Framework:** Flask (can be swapped for any other web framework)
+- **PDF Rendering:** PDF.js (loaded via CDN)
+- **UI:** Clean, modern, and responsive
+
+**[Quickly see the code with an IDE experience — open this link](https://github1s.com/knightafter/pdf-viewer-with-pdf.js/edit/main/README.md)**
+
 ---
 
 ## 🎯 Purpose
